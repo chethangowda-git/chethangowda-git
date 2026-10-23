@@ -1,4 +1,8 @@
-# Hi, I'm Chethan 👋
+<h1 align="center">Hi, I'm Chethan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+RAG+and+LLM+evaluation+tools;Real-time+apps+with+Angular+%2B+Node.js;Seeking+Spring+2027+Co-op" alt="Typing intro" />
+</p>
 
 Software engineer and MS Information Systems student at Northeastern University in Boston. I build the shared pieces other engineers build on.
 
@@ -30,12 +34,11 @@ Built 90%+ of the UI components for the collaboration product, plus an animation
 
 ### Tech I work with
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL
-**Frontend:** Angular, React, RxJS, Tailwind CSS, SCSS
-**Backend:** Node.js, Express, Fastify, FastAPI, REST APIs, Socket.io, BullMQ
-**Data:** PostgreSQL, MongoDB, SQL Server, Redis, ChromaDB, Prisma
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,angular,react,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,docker,kubernetes,aws,githubactions&perline=9" alt="Tech stack icons" />
+</p>
+
 **AI:** RAG, vector embeddings, LLM evaluation, Groq, Gemini, HuggingFace
-**DevOps:** Docker, Kubernetes, GitHub Actions, AWS EC2
 
 ---
 
