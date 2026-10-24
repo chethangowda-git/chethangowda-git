@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,100:0d1117&height=230&section=header&text=Welcome%20to%20Chethan's%20GitHub&fontSize=38&fontColor=111111&fontAlignY=34&desc=%3C%2F%3E&descSize=26&descAlignY=52&animation=fadeIn" width="100%" />
+<img src="./banner.svg" alt="Welcome to Chethan's GitHub" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/chethangowdagt"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
